@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.gallery {
+  display: grid;
+  gap: 1rem;
+  grid-auto-rows: 20rem;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+}
