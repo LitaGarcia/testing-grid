@@ -1,3 +1,3 @@
 # Goals
 
-This project has been made to test with responsive designs with CSS GRID.
+This project has been made to test with responsive designs using CSS GRID.
